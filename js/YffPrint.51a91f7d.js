@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["YffPrint"],{"4c94":function(n,t,e){"use strict";var c=e("692f"),f=e.n(c);f.a},"692f":function(n,t,e){},c7b9:function(n,t,e){"use strict";e.r(t);var c=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[e("button",{on:{click:n.createPDF}},[n._v("save pdf")])])},f=[],i=(e("cadf"),e("551c"),e("097d"),{methods:{}}),o=i,a=(e("4c94"),e("2877")),s=Object(a["a"])(o,c,f,!1,null,"2ae678db",null);s.options.__file="YFFpdf.vue";t["default"]=s.exports}}]);
+//# sourceMappingURL=YffPrint.51a91f7d.js.map
